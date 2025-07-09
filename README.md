@@ -1,2 +1,2 @@
-# incerto
-Co-Pilot For Databases
+# Incerto
+AI Co-Pilot For Databases
